@@ -10,4 +10,4 @@ Material necessary:
 * Xilinx ISE and Embedded Development Kit (EDK) tools, version 10.1.03
 
 
-Project developed with Ricardo Vieira and Robert Serrão.
+Project developed with João Bauto and Robert Serrão.
